@@ -1,26 +1,26 @@
 [![Slam](https://gitlab.awslink.in/api/logoposter.jpg)](https://youtu.be/Pk_TthHfLeE)
 
 # AWS MIRROR ZONE BOT
-![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-tg-mirror-bot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-tg-mirror-bot?color=green&style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/breakdowns/slam-tg-mirror-bot)
-![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-tg-mirror-bot?style=flat)
-![GitHub](https://img.shields.io/github/license/breakdowns/slam-tg-mirror-bot)
+![GitHub Repo stars](https://img.shields.io/github/stars/hifimass/sl-mirror?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/hifimass/sl-mirror?color=green&style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/hifimass/sl-mirror)
+![GitHub contributors](https://img.shields.io/github/contributors/hifimass/sl-mirror?style=flat)
+![GitHub](https://img.shields.io/github/license/hifimass/sl-mirror)
 ![Docker Pulls](https://img.shields.io/docker/pulls/breakdowns/mega-sdk-python?label=Docker%20Pull)
 [![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/SlamMirrorUpdates)
 
 ## MY EDIT PAGE
-- /help BOT Start Message, HELP COMMENTS INFO, STATS NEW STYLE, https://github.com/mani66660/slam-tg-mirror-bot/blob/master/bot/__main__.py
+- /help BOT Start Message, HELP COMMENTS INFO, STATS NEW STYLE, https://github.com/hifimass/sl-mirror/blob/master/bot/__main__.py
 
-- /mirror FINISHED_PROGRESS_STR, UNFINISHED_PROGRESS_STR, 🟩🟨, ╔●╟●╚●╚═●, MirrorStatus, ✥═══ @Mani5GRockers ═══✥, 〘〙, STATUS_LIMIT ⬅️➡️, Uploader - https://github.com/mani66660/slam-tg-mirror-bot/blob/master/bot/helper/ext_utils/bot_utils.py
+- /mirror FINISHED_PROGRESS_STR, UNFINISHED_PROGRESS_STR, 🟩🟨, ╔●╟●╚●╚═●, MirrorStatus, ✥═══ @Mani5GRockers ═══✥, 〘〙, STATUS_LIMIT ⬅️➡️, Uploader - https://github.com/hifimass/sl-mirror/blob/master/bot/helper/ext_utils/bot_utils.py
 
-- /mirror ✥════ @Mani5GRockers ════✥, hide cpu, ram, disk - https://github.com/mani66660/slam-tg-mirror-bot/edit/master/bot/helper/telegram_helper/message_utils.py
+- /mirror ✥════ @Mani5GRockers ════✥, hide cpu, ram, disk - https://github.com/hifimass/sl-mirror/edit/master/bot/helper/telegram_helper/message_utils.py
 
-- /mirror stop url msg, mirror wrong url, name replay msg    sendMessage('❌ Opps 🤦! Not Like That ❌\n\n💁‍♀️ 𝐇𝐎𝐖 𝐓𝐎 𝐌𝐈𝐑𝐑𝐎𝐑 ?\n\n📖 Read Document 📖\n\n 👉 https://awslink.in/awsmirrorzonehelp', bot, update), 👤 Uploader: </b>👉 {uname}\n\n⛔ 𝘿𝙤 𝙣𝙤𝙩 𝙨𝙝𝙖𝙧𝙚 𝙄𝙣𝙙𝙚𝙭 𝙇𝙞𝙣𝙠, download has been stopped</b>:\n\n🎄 <b>Reason - https://github.com/mani66660/slam-tg-mirror-bot/blob/master/bot/modules/mirror.py
+- /mirror stop url msg, mirror wrong url, name replay msg    sendMessage('❌ Opps 🤦! Not Like That ❌\n\n💁‍♀️ 𝐇𝐎𝐖 𝐓𝐎 𝐌𝐈𝐑𝐑𝐎𝐑 ?\n\n📖 Read Document 📖\n\n 👉 https://awslink.in/awsmirrorzonehelp', bot, update), 👤 Uploader: </b>👉 {uname}\n\n⛔ 𝘿𝙤 𝙣𝙤𝙩 𝙨𝙝𝙖𝙧𝙚 𝙄𝙣𝙙𝙚𝙭 𝙇𝙞𝙣𝙠, download has been stopped</b>:\n\n🎄 <b>Reason - https://github.com/hifimass/sl-mirror/blob/master/bot/modules/mirror.py
 
-- /watch commment msg added - https://github.com/mani66660/slam-tg-mirror-bot/blob/master/bot/modules/watch.py
-- /authorize Emoji logo added- https://github.com/mani66660/slam-tg-mirror-bot/blob/master/bot/modules/authorize.py
-- /tshelp - https://github.com/mani66660/slam-tg-mirror-bot/blob/master/bot/modules/torrent_search.py
+- /watch commment msg added - https://github.com/hifimass/sl-mirror/blob/master/bot/modules/watch.py
+- /authorize Emoji logo added- https://github.com/hifimass/sl-mirror/blob/master/bot/modules/authorize.py
+- /tshelp - https://github.com/hifimass/sl-mirror/blob/master/bot/modules/torrent_search.py
 - 
 - 
 - 
@@ -33,7 +33,7 @@
 - Normal
 - https://github.com/iamLiquidX/MirrorX
 
-- https://github.com/breakdowns/slam-tg-mirror-bot
+- https://github.com/hifimass/sl-mirror
     
 - 
     
@@ -118,7 +118,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/breakdowns/slam-tg-mirror-bot mirrorbot/
+git clone https://github.com/hifimass/sl-mirror mirrorbot/
 cd mirrorbot
 ```
 
@@ -177,16 +177,16 @@ Fill up rest of the fields. Meaning of each fields are discussed below:
 - **DOWNLOAD_DIR**: The path to the local folder where the downloads should be downloaded to
 - **DOWNLOAD_STATUS_UPDATE_INTERVAL**: A short interval of time in seconds after which the Mirror progress message is updated. (I recommend to keep it `5` seconds at least)  
 - **AUTO_DELETE_MESSAGE_DURATION**: Interval of time (in seconds), after which the bot deletes it's message (and command message) which is expected to be viewed instantly. (**Note**: Set to `-1` to never automatically delete messages)
-- **UPSTREAM_REPO**: Link for Bot Upstream Repo, if you want default update, fill `https://github.com/breakdowns/slam-tg-mirror-bot`.
+- **UPSTREAM_REPO**: Link for Bot Upstream Repo, if you want default update, fill `https://github.com/hifimass/sl-mirror`.
 - **UPSTREAM_BRANCH**: Branch name for Bot Upstream Repo, fill `master`.
 ### Optional Field
 - **ACCOUNTS_ZIP_URL**: Only if you want to load your Service Account externally from an Index Link. Archive your Service Account json files to a zip file directly (don't archive the accounts folder. Select all the jsons inside and zip them only instead. Name the zip file with whatever you want, it doesn't matter). Fill this with the direct link of that file.
 - **TOKEN_PICKLE_URL**: Only if you want to load your **token.pickle** externally from an Index Link. Fill this with the direct link of that file.
-- **DATABASE_URL**: Your Database URL. See [Generate Database](https://github.com/breakdowns/slam-tg-mirror-bot/tree/master#generate-database) to generate database (**NOTE**: If you use database you can save your sudo id permanent using `/addsudo` command).
+- **DATABASE_URL**: Your Database URL. See [Generate Database](https://github.com/hifimass/sl-mirror/tree/master#generate-database) to generate database (**NOTE**: If you use database you can save your sudo id permanent using `/addsudo` command).
 - **AUTHORIZED_CHATS**: Fill user_id and chat_id (not username) of you want to authorize, Seprate them with space, Examples: `-0123456789 -1122334455 6915401739`.
 - **SUDO_USERS**: Fill user_id (not username) of you want to sudoers, Seprate them with space, Examples: `0123456789 1122334455 6915401739` (**NOTE**: If you want save sudo id permanent without database, you must fill your sudo id there).
 - **IS_TEAM_DRIVE**: Set to `True` if `GDRIVE_FOLDER_ID` is from a Team Drive else `False` or Leave it empty.
-- **USE_SERVICE_ACCOUNTS**: (Leave empty if unsure) Whether to use Service Accounts or not. For this to work see [Using Service Accounts](https://github.com/breakdowns/slam-tg-mirror-bot#generate-service-accounts-what-is-service-account) section below.
+- **USE_SERVICE_ACCOUNTS**: (Leave empty if unsure) Whether to use Service Accounts or not. For this to work see [Using Service Accounts](https://github.com/hifimass/sl-mirror#generate-service-accounts-what-is-service-account) section below.
 - **INDEX_URL**: Refer to https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index The URL should not have any trailing '/'
 - **MEGA_API_KEY**: Mega.nz api key to mirror mega.nz links. Get it from [Mega SDK Page](https://mega.nz/sdk)
 - **MEGA_EMAIL_ID**: Your email id you used to sign up on mega.nz for using premium accounts (Leave th)
@@ -260,7 +260,7 @@ sudo docker run mirrorbot
     
 ## Deploying on Heroku
 
-- Give stars and Fork this repo then upload **token.pickle** to your forks, or you can upload your **token.pickle** to your Index and put your **token.pickle** link to **TOKEN_PICKLE_URL** (**NOTE**: If you didn't upload **token.pickle** uploading will not work). How to generate **token.pickle**? [Read here](https://github.com/breakdowns/slam-tg-mirror-bot#getting-google-oauth-api-credential-file)
+- Give stars and Fork this repo then upload **token.pickle** to your forks, or you can upload your **token.pickle** to your Index and put your **token.pickle** link to **TOKEN_PICKLE_URL** (**NOTE**: If you didn't upload **token.pickle** uploading will not work). How to generate **token.pickle**? [Read here](https://github.com/hifimass/sl-mirror#getting-google-oauth-api-credential-file)
 - Hit the **DEPLOY TO HEROKU** button and follow the further instructions in the screen (**NOTE**: If vars not coming, just change deploy link to your fork, Example: `https://dashboard.heroku.com/new?template=https://github.com/yourgithubname/slam-tg-mirror-bot`)
 - Recommended to use 1 App in 1 Heroku accounts
 
@@ -334,7 +334,7 @@ python3 gen_sa_accounts.py --download-keys project_id
 python3 add_to_team_drive.py -d SharedTeamDriveSrcID
 ```
 
-# Youtube-dl authentication using [.netrc](https://github.com/breakdowns/slam-tg-mirror-bot/blob/master/.netrc) file
+# Youtube-dl authentication using [.netrc](https://github.com/hifimass/sl-mirror/blob/master/.netrc) file
 For using your premium accounts in Youtube-dl or for protected Index Links, edit the netrc file according to following format:
 ```
 machine host login username password my_youtube_password
@@ -357,4 +357,4 @@ Thanks to:
 - [breakdowns](https://github.com/breakdowns) for slam-aria-mirror-bot
 - [zevtyardt](https://github.com/zevtyardt) for some direct links
 
-And many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/breakdowns/slam-tg-mirror-bot/graphs/contributors).
+And many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/hifimass/sl-mirror/graphs/contributors).
